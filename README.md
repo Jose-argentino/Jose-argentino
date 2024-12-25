@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Trabalho com Front-end
-Estudante de Engenharia da computação
+Trabalho com Front-end <br>
+Estudante de Engenharia da computação<br>
 
